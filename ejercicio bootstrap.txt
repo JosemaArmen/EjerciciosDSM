@@ -1,1 +1,0 @@
-El ejercicio comprende home.html y admin.html. index.html forma parte del ejemplo de clase
